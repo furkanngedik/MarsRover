@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsRover.Aplication", "MarsRover.Aplication\MarsRover.Aplication.csproj", "{94DFE2ED-9A16-44E7-83B0-B9068C8D8E88}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsRover.Domain", "MarsRover.Domain\MarsRover.Domain.csproj", "{E7087A72-CD4E-4013-A603-571B378EAA86}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MarsRover.Core", "MarsRover.Core\MarsRover.Core.csproj", "{41246602-FF5B-4C5F-92E0-A42478BFFB8A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MarsRover.Test", "MarsRover.Test\MarsRover.Test.csproj", "{DD85014E-A79D-43CB-883D-60392DDB4119}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94DFE2ED-9A16-44E7-83B0-B9068C8D8E88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94DFE2ED-9A16-44E7-83B0-B9068C8D8E88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94DFE2ED-9A16-44E7-83B0-B9068C8D8E88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94DFE2ED-9A16-44E7-83B0-B9068C8D8E88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E7087A72-CD4E-4013-A603-571B378EAA86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7087A72-CD4E-4013-A603-571B378EAA86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7087A72-CD4E-4013-A603-571B378EAA86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7087A72-CD4E-4013-A603-571B378EAA86}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41246602-FF5B-4C5F-92E0-A42478BFFB8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41246602-FF5B-4C5F-92E0-A42478BFFB8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41246602-FF5B-4C5F-92E0-A42478BFFB8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41246602-FF5B-4C5F-92E0-A42478BFFB8A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD85014E-A79D-43CB-883D-60392DDB4119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD85014E-A79D-43CB-883D-60392DDB4119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD85014E-A79D-43CB-883D-60392DDB4119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD85014E-A79D-43CB-883D-60392DDB4119}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E79E8A82-834C-4AC1-9736-5B9EF9F9DE77}
+	EndGlobalSection
+EndGlobal
